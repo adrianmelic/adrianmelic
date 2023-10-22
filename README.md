@@ -1,19 +1,18 @@
 ### Hi there I'm Adrián Melic
-[![Twitter: adrianmelic](https://img.shields.io/badge/-@adrianmelic-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/adrianmelic)
+[![X: adrianmelic](https://img.shields.io/badge/-@adrianmelic-000000?style=flat&logo=X&logoColor=white)](https://x.com/adrianmelic)
 [![Linkedin: adrianmelic](https://img.shields.io/badge/-Adrián%20Melic-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianmelic/)](https://www.linkedin.com/in/adrianmelic/)
-
-- 👨🏽‍💻 I'm currently a **Sofware Developer Manager** at [Clever Ads](https://cleverads.com/)
+- 👨‍💻 I work as a **freelance AI Consultant** and **teacher**. I'm also **AI Developer Manager** at [Clever Ads](https://cleverads.com/)
 - 🚀 I have **+5 years of work experience** in **Software Development**
-- 💡 My interests are **Reinforcement Learning**, **Natural Language Processing**, **Finance**, **Clean Enegry**, and **Space Exploration**
-- 🎓 I'm doing a [Master's degree in Artificial Intelligence at UNIR](https://www.unir.net/ingenieria/master-inteligencia-artificial/) and I have a [Bachelor's degree in Business Administration and Management at UNED](https://portal.uned.es/pls/portal/url/page/UNED_MAIN/GRADOS/6502/2023)
+- 💡 My interests are **Reinforcement Learning**, **Natural Language Processing**, **Videogames**, **Finance**, **Clean Enegry**, and **Space Exploration**
+- 🎓 I have a [Master's degree in Artificial Intelligence at UNIR](https://www.unir.net/ingenieria/master-inteligencia-artificial/) and a [Bachelor's degree in Business Administration and Management at UNED](https://portal.uned.es/pls/portal/url/page/UNED_MAIN/GRADOS/6502/2023)
 - 🦾 I'm a Kaggle Competitions Expert with two medals as a team [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=flat&logo=Kaggle&logoColor=white)](https://kaggle.com/adrianmelic)
 - 🧠 +50 Online courses completed, most of them certified [![Coursera](https://img.shields.io/static/v1?style=flat&message=Coursera&color=0056D2&logo=Coursera&logoColor=FFFFFF&label=&link=https://www.coursera.org/user/9c8f6d8bf6a30e03dba32823507f2590)](https://www.coursera.org/user/9c8f6d8bf6a30e03dba32823507f2590) [![Udacity](https://img.shields.io/static/v1?style=flat&message=Udacity&color=222222&logo=Udacity&logoColor=02B3E4&label=)](https://github.com/adrianmelic) [![DataCamp](https://img.shields.io/static/v1?style=flat&message=DataCamp&color=222222&logo=DataCamp&logoColor=03EF62&label=&link=https://app.datacamp.com/profile/adrianmelic)](https://app.datacamp.com/profile/adrianmelic) [![Codecademy](https://img.shields.io/static/v1?style=flat&message=Codecademy&color=1F4056&logo=Codecademy&logoColor=FFFFFF&label=&link=https://www.codecademy.com/profiles/adrianmelic)](https://www.codecademy.com/profiles/adrianmelic)
-- 🍻🍕 Leading [AWS Zaragoza User Group Meetup](https://www.meetup.com/awszgz/) and [Zaragoza AI Meetup](https://www.meetup.com/zaragoza-ai/)
+- 🍻🍕 Led for years [AWS Zaragoza User Group Meetup](https://www.meetup.com/awszgz/) and [Zaragoza AI Meetup](https://www.meetup.com/zaragoza-ai/)
 - 📫 Please email via info@adrianmelic.com to reach me
 <br>
 
 <!-- Other style: style=for-the-badge -->
-### 👨🏽‍💻 Tech
+### 👨‍💻 Tech
 **🌿 Using everyday:**
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&link=https://github.com/adrianmelic)](https://github.com/adrianmelic)
@@ -29,7 +28,7 @@
 [![ClickUp](https://img.shields.io/static/v1?style=flat&message=ClickUp&color=7B68EE&logo=ClickUp&logoColor=FFFFFF&label=&link=https://github.com/adrianmelic)](https://github.com/adrianmelic)
 [![Google Ads](https://img.shields.io/static/v1?style=flat&message=Google+Ads&color=4285F4&logo=Google+Ads&logoColor=FFFFFF&label=&link=https://github.com/adrianmelic)](https://github.com/adrianmelic)
 
-**🌱 Using everyday but still learning:**
+**🌱 Using but still learning:**
 
 [![AWS Sagemaker](https://img.shields.io/badge/Amazon_Sagemaker-232F3E?style=flat&logo=Amazon%20AWS&logoColor=FC9803&link=https://github.com/adrianmelic)](https://github.com/adrianmelic)
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/adrianmelic)](https://github.com/adrianmelic)
@@ -51,12 +50,5 @@
 [![WordPress](https://img.shields.io/static/v1?style=flat&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label=&link=https://github.com/adrianmelic)](https://github.com/adrianmelic)
 <br>
 
-
-<!-- ### Blog -->
-<!-- [![adrianmelic](https://github-readme-medium.vercel.app/?username=adrianmelic)](https://medium.com/@adrianmelic) -->
-<!--
-### 🚀 Active Repos
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=adrianmelic&repo=...)](https://github.com/adrianmelic/...) -->
-<!-- <p> -->
-<!-- <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api?username=adrianmelic&show_icons=true&hide_border=true" alt="adrianmelic" /></p>
-</p> -->
+### Webpage
+[adrianmelic.com](https://adrianmelic.com)
