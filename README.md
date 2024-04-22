@@ -4,7 +4,7 @@
 - 👨‍💻 I work as a **freelance AI Consultant** and **teacher**. I'm also **AI Developer Manager** at [Clever Ads](https://cleverads.com/)
 - 🚀 I have **+6 years of work experience** in **Software Development**
 - 💡 My interests are **AI**, **LLMs**, **Reinforcement Learning**, **Videogames**, **Finance**, **Clean Enegry**, and **Space Exploration**
-- 🎓 I have a [Master's degree in Artificial Intelligence at UNIR](https://www.unir.net/ingenieria/master-inteligencia-artificial/) and a [Bachelor's degree in Business Administration and Management at UNED](https://portal.uned.es/pls/portal/url/page/UNED_MAIN/GRADOS/6502/2023)
+- 🎓 I have a [Master's degree in Artificial Intelligence at UNIR](https://www.unir.net/ingenieria/master-inteligencia-artificial/) and a [Bachelor's degree in Business Administration and Management at UNED](https://www.uned.es/universidad/inicio/estudios/grados/grado-en-administracion-y-direccion-de-empresas.html)
 - 🦾 I teach 2 courses that I have created: one on Generative AI and the other on digitization.
 - 🏅 I'm a Kaggle Competitions Expert with two medals as a team [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=flat&logo=Kaggle&logoColor=white)](https://kaggle.com/adrianmelic)
 - 🧠 +50 Online courses completed, most of them certified [![Coursera](https://img.shields.io/static/v1?style=flat&message=Coursera&color=0056D2&logo=Coursera&logoColor=FFFFFF&label=&link=https://www.coursera.org/user/9c8f6d8bf6a30e03dba32823507f2590)](https://www.coursera.org/user/9c8f6d8bf6a30e03dba32823507f2590) [![Udacity](https://img.shields.io/static/v1?style=flat&message=Udacity&color=222222&logo=Udacity&logoColor=02B3E4&label=)](https://github.com/adrianmelic) [![DataCamp](https://img.shields.io/static/v1?style=flat&message=DataCamp&color=222222&logo=DataCamp&logoColor=03EF62&label=&link=https://app.datacamp.com/profile/adrianmelic)](https://app.datacamp.com/profile/adrianmelic) [![Codecademy](https://img.shields.io/static/v1?style=flat&message=Codecademy&color=1F4056&logo=Codecademy&logoColor=FFFFFF&label=&link=https://www.codecademy.com/profiles/adrianmelic)](https://www.codecademy.com/profiles/adrianmelic)
@@ -37,7 +37,6 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-orange?style=flat&logo=pytorch&&logoColor=white&link=https://github.com/adrianmelic)
 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/adrianmelic)
-![spaCy](https://img.shields.io/static/v1?style=flat&message=spaCy&color=09A3D5&logo=spaCy&logoColor=FFFFFF&label=&link=https://github.com/adrianmelic)
 
 **🍁 Less used:**
 
@@ -45,6 +44,7 @@
 ![Microsoft Azure](https://img.shields.io/static/v1?style=flat&message=Microsoft+Azure&color=0078D4&logo=Microsoft+Azure&logoColor=FFFFFF&label=&link=https://github.com/adrianmelic)
 
 ![MySQL](https://img.shields.io/badge/MySQL-005E87?style=flat&logo=MySQL&logoColor=white&link=https://github.com/adrianmelic)
+![spaCy](https://img.shields.io/static/v1?style=flat&message=spaCy&color=09A3D5&logo=spaCy&logoColor=FFFFFF&label=&link=https://github.com/adrianmelic)
 ![Twitter](https://img.shields.io/static/v1?style=flat&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=&link=https://github.com/adrianmelic)
 ![Unity](https://img.shields.io/static/v1?style=flat&message=Unity&color=222222&logo=Unity&logoColor=FFFFFF&label=&link=https://github.com/adrianmelic)
 ![Google Analytics](https://img.shields.io/static/v1?style=flat&message=Google+Analytics&color=E37400&logo=Google+Analytics&logoColor=FFFFFF&label=&link=https://github.com/adrianmelic)
