@@ -1,8 +1,8 @@
 ### Hi there I'm Adrián Melic
 [![X: adrianmelic](https://img.shields.io/badge/-@adrianmelic-000000?style=flat&logo=X&logoColor=white)](https://x.com/adrianmelic)
 [![Linkedin: adrianmelic](https://img.shields.io/badge/-Adrián%20Melic-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianmelic/)](https://www.linkedin.com/in/adrianmelic/)
-- 👨‍💻 I work as a **freelance AI Consultant** and **teacher**. I'm also **AI Developer Manager** at [Clever Ads](https://cleverads.com/)
-- 🚀 I have **+6 years of work experience** in **Software Development**
+- 👨‍💻 I work as a **freelance AI Consultant** and **teacher**.
+- 🚀 I have **+7 years of work experience** in **Software Development**
 - 💡 My interests are **AI**, **LLMs**, **Reinforcement Learning**, **Videogames**, **Finance**, **Clean Enegry**, and **Space Exploration**
 - 🎓 I have a [Master's degree in Artificial Intelligence at UNIR](https://www.unir.net/ingenieria/master-inteligencia-artificial/) and a [Bachelor's degree in Business Administration and Management at UNED](https://www.uned.es/universidad/inicio/estudios/grados/grado-en-administracion-y-direccion-de-empresas.html)
 - 🦾 I teach 2 courses that I have created: one on Generative AI and the other on digitization.
