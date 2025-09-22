@@ -5,6 +5,8 @@ Ayudo a equipos y profesionales a **incorporar IA práctica** con talleres y ses
 
 ➡️ **Web**: https://adrianmelic.com
 
-➡️ **LinkedIn**: https://www.linkedin.com/in/adrianmelic
+➡️ **LinkedIn**: https://linkedin.com/in/adrianmelic
+
+➡️ **X**: https://x.com/adrianmelic
 
 ✉️ **Contacto**: info@adrianmelic.com
